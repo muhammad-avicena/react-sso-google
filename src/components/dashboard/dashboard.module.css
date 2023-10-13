@@ -1,0 +1,19 @@
+.book-list-container {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+.book-item {
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.book-name {
+  font-weight: bold;
+}
+
+.book-author {
+  margin-top: 5px;
+}
